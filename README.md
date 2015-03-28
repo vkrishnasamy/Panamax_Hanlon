@@ -23,21 +23,24 @@ running Hanlon
  - run and try provisioning a VM or a physical machine with chosen OS
  - For Hanlon features and usage look for https://github.com/csc/Hanlon
  
-updates on Hanlon
-Every new updates to Hanlon will bee-line to Dockerhub as containers and will be periodically updating this template or will update with appropriate description for the new panamax_hanlon template
+Updates on Hanlon
+
+Every new updates to Hanlon will bee-line to Dockerhub as containers and will get periodically updated this template or will update with appropriate description for the new panamax_hanlon template(if preserving template version is relevant!)
 
 
-Tracert on here is how and why!!
+Tracert on here is the 'why and how'!
 
 - I was looking for a Vagrant driven control on the life cycle of *inx.
 - I was looking for docker combination
 - CoreOS and fleet was more than a boon to add to this
 - running on a Mac directly without heavy duty VMs for provisioning
-- Ultimately to run Hanlon and get a hand on it
+- Ultimately to run Hanlon and get a hand on it with all the above
 
-Panamax was a super close hit and I found using Vagrant Spinning a CoreOS having a fleet on top running docker and connected to dockerhub and helps stictch multiple containers in either Mac or any cloud.. so there.
+Panamax was a super close hit and I found using panamax -> Vagrant Spinning -> a CoreOS having a fleet on top running ->docker and connected to -> dockerhub and helps stictch multiple containers -> creating tempates in github to share  -> run in either Mac or any cloud.. so there.
 
+on questions  - vittal.krishnasamy@gmail.com
 
+tip : This repo might move within github to a more organized place!! 
 
 
 
