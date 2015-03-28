@@ -25,7 +25,7 @@ running Hanlon
  
 Updates on Hanlon
 
-Every new updates to Hanlon will bee-line to Dockerhub as containers and will get periodically updated this template or will update with appropriate description for the new panamax_hanlon template(if preserving template version is relevant!)
+Every new updates to Hanlon will bee-line to Dockerhub as containers and will get periodically updated to this template or will update with appropriate description for the new panamax_hanlon template(if preserving template version is relevant!)
 
 
 Tracert on here is the 'why and how'!
